@@ -6,3 +6,6 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 --no-ff
 the hotfix
+Test bug branch
+add a new test
+continue iss53
