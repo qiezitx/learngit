@@ -12,4 +12,5 @@ continue iss53
 
 fetch test
 
-sparse-checkout
+sparse-checkout 1
+sparse-checkout 2
