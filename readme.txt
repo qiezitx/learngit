@@ -11,6 +11,3 @@ add a new test
 continue iss53
 
 fetch test
-
-sparse-checkout 1
-sparse-checkout 2
